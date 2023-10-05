@@ -1,8 +1,8 @@
 ### FACEBRUTE
 ```
 This ia an Offensive Bruteforce Attack Tool, Just For Educational Purpose Only
-For Questions [https://t.me/BitWalls_Sec]
 ```
+For Questions Telegram: https://t.me/BitWalls_Sec
 
 ## Install Requirements on any Linux Distribution
 ```
