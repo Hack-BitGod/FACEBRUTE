@@ -3,7 +3,7 @@
 This ia an Offensive Bruteforce Attack Tool, Just For Educational Purpose Only
 ```
 
-## Install Requirements (on Linux)
+## Install Requirements on any Linux Distribution
 ```
 >> apt-get install git python3 python3-pip python python-pip
 ```
