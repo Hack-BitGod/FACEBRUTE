@@ -1,0 +1,5 @@
+#bin/python
+#code written by Alpha-HackGod
+
+pip install mechanize
+pkg install wget
