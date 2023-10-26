@@ -2,7 +2,7 @@
 ```
 This ia an Offensive Bruteforce Attack Tool, Just For Educational Purpose Only
 ```
-For Questions Telegram: https://t.me/BitWalls_Sec
+For Questions Telegram: https://t.me/BitWalls_Sec Email Me: cybergeeksacademy@gmail.com
 
 ## Install Requirements on any Linux Distribution
 ```
