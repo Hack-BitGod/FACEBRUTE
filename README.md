@@ -5,7 +5,7 @@ This ia an Offensive Bruteforce Attack Tool, Just For Educational Purpose Only
 For Questions Telegram: https://t.me/BitWalls_Sec Email Me: bitwallssec@gmail.com
 
 
-## Install Requirements on any Linux Distribution.
+## Install Requirements on any Linux Distribution
 ```
 >> apt-get install git python3 python3-pip python python-pip
 ```
